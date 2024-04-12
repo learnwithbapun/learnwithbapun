@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Bhagabata Parida 👋</h1>
 
-<h3 align="center">Team Leader | Full Stack Engineer | HSBC</h3>
+<h3 align="center">Full Stack Engineer | HSBC</h3>
 
 <p align="center">👀 I’m interested in web technology and cloud technology</p>
 
@@ -8,7 +8,7 @@
 
 <p align="center">💞️ I’m looking to collaborate on tech stack</p>
 
-<p align="center">📫 You can reach me at [insert your contact information here]</p>
+<p align="center">📫 You can reach me at 9776945960</p>
 
 <p align="center">
   <a href="https://github.com/learnwithbapun"><img src="https://img.shields.io/github/followers/learnwithbapun.svg?label=GitHub&style=social" alt="GitHub"></a>
