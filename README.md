@@ -1,3 +1,4 @@
+I'm a | Team Leader | Full Stack Engineer | HSBC |
 - 👋 Hi, I’m Bhagabata Parida
 - 👀 I’m interested web technology and cloud technology
 - 🌱 I’m currently working with HSBC.
