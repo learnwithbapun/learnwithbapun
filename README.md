@@ -37,6 +37,11 @@
 #### Other Tools:
 [![Git](https://img.shields.io/badge/Git-2.32-red)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-20.10.5-blue)](https://www.docker.com/)
+
+#### IDEs:
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-1.60.2-blue)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2021.2.2-blue)](https://www.jetbrains.com/idea/)
+[![STS Eclipse](https://img.shields.io/badge/STS%20Eclipse-4.11.0-blue)](https://spring.io/tools)
 <!---
 learnwithbapun/learnwithbapun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
