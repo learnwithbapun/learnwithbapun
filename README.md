@@ -35,7 +35,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.4-blue)](https://www.postgresql.org/)
 
 #### Other Tools:
-[![Git](https://img.shields.io/badge/Git-2.32-red)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-2.55-red)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-20.10.5-blue)](https://www.docker.com/)
 
 #### IDEs:
